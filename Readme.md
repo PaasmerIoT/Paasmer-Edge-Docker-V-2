@@ -41,10 +41,10 @@ Registration on the [PAASMER portal](http://developers.paasmer.co) is necessary 
 ### OS Image Downloading
 
 #### For Windows
-* Download the zip file [click here](https://github.com/PaasmerIoT/Paasmer-Edge-Docker-V-1/releases/download/1.0/paasmerOS.zip) and extract it.
+* Download the zip file [click here](https://github.com/PaasmerIoT/Paasmer-Edge-Docker-V-2/releases/download/1.0/paasmerOS.zip) and extract it.
 
 #### For Linux
-* Download the run file. [click here](https://github.com/PaasmerIoT/Paasmer-Edge-Docker-V-1/releases/download/1.0/paasmerOS) to download.
+* Download the run file. [click here](https://github.com/PaasmerIoT/Paasmer-Edge-Docker-V-2/releases/download/1.0/paasmerOS) to download.
 
 * Run the file using the command.
 ```
